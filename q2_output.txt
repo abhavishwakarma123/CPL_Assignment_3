@@ -1,0 +1,28 @@
+The given equations are:
+
+
+0.0 x +  2.0 y +  -3.0 z =  -1.0
+1.0 x +  0.0 y +  1.0 z =  0.0
+1.0 x +  -1.0 y +  0.0 z =  3.0
+
+
+The original augmented matrix is: 
+
+[0.0 , 2.0 , -3.0 | -1.0  ]
+[1.0 , 0.0 , 1.0 | 0.0  ]
+[1.0 , -1.0 , 0.0 | 3.0  ]
+
+
+The final augmented matrix is: 
+
+[1.0 , 0.0 , 0.0 | 1.0  ]
+[0.0 , 1.0 , 0.0 | -2.0  ]
+[0.0 , 0.0 , 1.0 | -1.0  ]
+
+
+The solutions are:
+
+
+x  =  1.0
+y  =  -2.0
+z  =  -1.0
